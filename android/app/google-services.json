@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266182367103",
+    "project_id": "uptutassignment",
+    "storage_bucket": "uptutassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266182367103:android:4d7ae812c1935a1ca72c4a",
+        "android_client_info": {
+          "package_name": "com.uptutassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266182367103-lolas5af0repmjvnkilbguhva0jichh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW8bh5iBoHEVwPJLHLKtuHAd53RVC9VDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266182367103-lolas5af0repmjvnkilbguhva0jichh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
